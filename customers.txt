@@ -1,0 +1,6 @@
+# Format: username,password,firstName,lastName
+john_doe,pass123,John,Doe
+jane_smith,abc123,Jane,Smith
+alice_jones,alice123,Alice,Jones
+bob_brown,bobpass,Bob,Brown
+charlie_moon,moon123,Charlie,Moon

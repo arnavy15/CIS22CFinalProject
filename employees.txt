@@ -1,0 +1,4 @@
+# Format: username,password,firstName,lastName
+emp1,emp1pass,Emily,Stone
+emp2,emp2pass,Eric,Johnson
+emp3,emp3pass,Eva,Martinez

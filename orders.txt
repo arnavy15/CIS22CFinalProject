@@ -1,0 +1,5 @@
+# Format: orderID,username,productName,shippingMethod
+# shippingMethod can be: OVERNIGHT, RUSH, STANDARD
+1000,john_doe,AcousticGuitar,STANDARD
+1001,jane_smith,ElectricGuitar,OVERNIGHT
+1002,bob_brown,Flute,RUSH

@@ -1,0 +1,16 @@
+# Format: instrumentName, instrumentType, price, brand, quantityInStock, description
+AcousticGuitar,String,249.99,Yamaha,10,6-string acoustic guitar for beginners
+ElectricGuitar,String,499.50,Fender,5,Electric guitar with single-coil pickups
+BassGuitar,String,399.00,Ibanez,7,4-string bass guitar
+Violin,String,299.00,Stradivarius,3,Classic full-size violin
+Cello,String,799.00,Yamaha,2,Full-size cello with warm tone
+Flute,Woodwind,159.99,Gemeinhardt,10,Smooth-sounding silver flute
+Clarinet,Woodwind,179.99,Buffet,8,Beginner-friendly Bb clarinet
+AltoSaxophone,Woodwind,699.99,Yamaha,4,Professional alto sax
+Trumpet,Brass,249.99,Bach,6,Student trumpet with great intonation
+Trombone,Brass,399.99,Yamaha,3,Standard tenor trombone
+FrenchHorn,Brass,899.99,Conn,2,Double horn with rich tone
+DrumSet,Percussion,999.99,Pearl,2,5-piece drum set
+Xylophone,Percussion,299.99,Yamaha,4,Orchestral xylophone
+Harmonica,FreeReed,39.99,Hohner,20,10-hole diatonic harmonica
+Accordion,FreeReed,499.99,Roland,1,Digital accordion with multiple registers
